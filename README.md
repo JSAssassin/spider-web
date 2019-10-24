@@ -1,4 +1,4 @@
-# Web Crawler
+# Spider Web (a bad Web Crawler)
 
 A mock web crawler designed to demonstrate the difficulties that might come as a result of
 using Puns or Metaphors as class names or variables.
