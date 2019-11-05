@@ -7,7 +7,7 @@ class InterWebs {
    */
   crawlUpThread(thread) {
     let prey = ['oprahbees.jpg'];
-    let spiral = ['http://beesbeesbees.com', 'http://beesbeesbees.com'];
+    let spiral = ['http://beesbeesbees.com', 'http://github.com'];
     return new Web(thread, prey, spiral);
   }
 }
