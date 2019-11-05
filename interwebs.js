@@ -2,7 +2,8 @@ const Web = require('./web');
 
 class InterWebs {
   /**
-   * Return a new web after crawling
+   * Returns a new web after crawling
+   * @param {string} thread 
    */
   crawlUpThread(thread) {
     let prey = ['oprahbees.jpg'];
