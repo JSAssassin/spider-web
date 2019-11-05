@@ -10,6 +10,10 @@ class InterWebs {
     let spiral = ['http://beesbeesbees.com', 'http://github.com'];
     return new Web(thread, prey, spiral);
   }
+
+  snipThread(thread) {
+    console.log('snip snip...');
+  }
 }
 
 module.exports = InterWebs;
