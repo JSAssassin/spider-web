@@ -13,6 +13,9 @@ class InterWebs {
   eatprey(){
     console.log('nom nom');
   }
+  snipThread(thread) {
+    console.log('snip snip...');
+  }
 }
 
 module.exports = InterWebs;
