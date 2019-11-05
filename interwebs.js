@@ -10,6 +10,9 @@ class InterWebs {
     let spiral = ['http://beesbeesbees.com', 'http://github.com'];
     return new Web(thread, prey, spiral);
   }
+  eatprey(){
+    console.log('nom nom');
+  }
 }
 
 module.exports = InterWebs;
